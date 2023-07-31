@@ -1,4 +1,104 @@
 # Awesome-Open-World
+## Summary of Contents
+- [Open-Set](#open-set)
+  - [Open-Set Image Classification](#open-set-image-classification)
+  - [Open-Set Object Detection](#open-set-object-detection)
+  - [Open-Set Semantic Segmentation](#open-set-semantic-segmentation)
+  - [Open-Set Instance Segmentation](#open-set-instance-segmentation)
+  - [Open-Set 3D Scene Understanding](#open-set-3d-scene-understanding)
+- [Open-Vocabulary](#open-vocabulary)
+  - [Open-Vocabulary Image Classification](#open-vocabulary-image-classification)
+  - [Open-Vocabulary Object Detection](#open-vocabulary-object-detection)
+  - [Open-Vocabulary Semantic Segmentation](#open-vocabulary-semantic-segmentation)
+  - [Open-Vocabulary Instance Segmentation](#open-vocabulary-instance-segmentation)
+  - [Open-Vocabulary 3D Scene Understanding](#open-vocabulary-3d-scene-understanding)
+- [Lifelong-Learning](#lifelong-learning)
+  - [Image Classification](#image-classification)
+  - [Object Detection](#object-detection)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Instance Segmentation](#instance-segmentation)
+  - [3D Scene Understanding](#3d-scene-understanding)
+- [Related Domains](#related-domains)
+  - [Open-World Object Detection](#open-world-object-detection)
+## Open-Set(know what the model doesn't know)
+### Open-Set Image Classification
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Set Object Detection
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Set Semantic Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Set Instance Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Set 3D Scene Understanding
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+## Open-Vocabulary(recognize what the model doesn't know)
+### Open-Vocabulary Image Classification
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Vocabulary Object Detection
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Vocabulary Semantic Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Vocabulary Instance Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Open-Vocabulary 3D Scene Understanding
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+## Lifelong-Learning(learn to recognize what the model doesn't know with human feedback)
+### Image Classification
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Object Detection
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Semantic Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### Instance Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+### 3D Scene Understanding
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+
+## Related Domains
 ### Open-World Object Detection
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
