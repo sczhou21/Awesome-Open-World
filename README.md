@@ -112,6 +112,7 @@
 |2023|CVPR|-|[Unknown Sniffer for Object Detection: Don't Turn a Blind Eye to Unknown Objects](https://arxiv.org/abs/2303.13769)|[Code](https://github.com/Went-Liang/UnSniffer)|
 |2023|CVPR|-|[CapDet: Unifying Dense Captioning and Open-World Detection Pretraining](https://arxiv.org/abs/2303.02489)|N/A|
 |2023|ICLR|-|[GOOD: Exploring Geometric Cues for Detecting Objects in an Open World](https://arxiv.org/abs/2212.11720)|[Code](https://github.com/autonomousvision/good)|
+|2023|ICCV|-|[Random Boxes Are Open-world Object Detectors](https://arxiv.org/abs/2307.08249v1)|[Code](https://github.com/scuwyh2000/randbox)|
 |2022|arXiv|-|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|[Code](https://github.com/RE-OWOD/RE-OWOD)|
 |2022|arXiv|-|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|N/A|
 |2023|arXiv|-|[Addressing the Challenges of Open-World Object Detection](https://arxiv.org/abs/2303.14930)|N/A|
