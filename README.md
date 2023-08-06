@@ -30,7 +30,7 @@
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-
+|2022|CVPR|-|[Expanding Low-Density Latent Regions for Open-Set Object Detection](https://arxiv.org/abs/2203.14911)|[Code](https://github.com/csuhan/opendet2)|
 ### Open-Set Semantic Segmentation
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
