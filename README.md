@@ -20,6 +20,7 @@
   - [3D Scene Understanding](#3d-scene-understanding)
 - [Related Domains](#related-domains)
   - [Open-World Object Detection](#open-world-object-detection)
+  - [Novel Class Discovery](#novel-class-discovery) 
 ## Open-Set(know what the model doesn't know)
 ### Open-Set Image Classification
 
