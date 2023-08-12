@@ -117,3 +117,9 @@
 |2022|arXiv|-|[Revisiting Open World Object Detection](https://arxiv.org/abs/2201.00471)|[Code](https://github.com/RE-OWOD/RE-OWOD)|
 |2022|arXiv|-|[Open World DETR: Transformer based Open World Object Detection](https://arxiv.org/abs/2212.02969)|N/A|
 |2023|arXiv|-|[Addressing the Challenges of Open-World Object Detection](https://arxiv.org/abs/2303.14930)|N/A|
+
+### Novel Class Discovery
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2021|CVPR|-|[Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731)|[Code](https://github.com/zhunzhong07/NCL)|
