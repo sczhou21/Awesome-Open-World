@@ -123,4 +123,5 @@
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2020|ICLR|-|[Automatically discovering and learning new visual categories with ranking statistics](https://arxiv.org/abs/2002.05714)|[Code](https://www.robots.ox.ac.uk/~vgg/research/auto_novel/)|
 |2021|CVPR|-|[Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731)|[Code](https://github.com/zhunzhong07/NCL)|
