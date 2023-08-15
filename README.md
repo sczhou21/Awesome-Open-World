@@ -126,3 +126,4 @@
 |2020|ICLR|-|[Automatically discovering and learning new visual categories with ranking statistics](https://arxiv.org/abs/2002.05714)|[Code](https://www.robots.ox.ac.uk/~vgg/research/auto_novel/)|
 |2021|CVPR|-|[Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731)|[Code](https://github.com/zhunzhong07/NCL)|
 |2021|CVPR|-|[OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551)|N/A|
+|2022|ECCV|-|[Novel Class Discovery without Forgetting](https://arxiv.org/abs/2207.10659)|N/A|
