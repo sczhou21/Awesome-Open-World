@@ -32,6 +32,7 @@
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2022|CVPR|-|[Expanding Low-Density Latent Regions for Open-Set Object Detection](https://arxiv.org/abs/2203.14911)|[Code](https://github.com/csuhan/opendet2)|
+|2022|CVPR|-|[Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)|[Code](https://github.com/deeplearning-wisc/stud)|
 |2022|ICLR|-|[VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197)|[Code](https://github.com/deeplearning-wisc/vos)|
 ### Open-Set Semantic Segmentation
 
