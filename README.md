@@ -20,7 +20,8 @@
   - [3D Scene Understanding](#3d-scene-understanding)
 - [Related Domains](#related-domains)
   - [Open-World Object Detection](#open-world-object-detection)
-  - [Novel Class Discovery](#novel-class-discovery) 
+  - [Novel Class Discovery](#novel-class-discovery)
+  - [Open-World Instance Segmentation](#open-world-instance-segmentation)
 ## Open-Set(know what the model doesn't know)
 ### Open-Set Image Classification
 
@@ -130,3 +131,9 @@
 |2021|CVPR|-|[OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551)|N/A|
 |2022|ECCV|-|[Novel Class Discovery without Forgetting](https://arxiv.org/abs/2207.10659)|N/A|
 |2022|ECCV|-|[Class-incremental Novel Class Discovery](https://arxiv.org/abs/2207.08605)|[Code](https://github.com/OatmealLiu/class-iNCD)|
+
+### Open-World Instance Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2023|arxiv|-|[Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision](https://arxiv.org/abs/2303.05503)|[Code](https://tarun005.github.io/UDOS/)|
