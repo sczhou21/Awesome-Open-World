@@ -137,4 +137,5 @@
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2022|CVPR|-|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Code](https://sites.google.com/view/generic-grouping/)|
+|2023|ICCV|-|[SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/abs/2308.06531)|[Code](https://github.com/aim-uofa/SegPrompt)|
 |2023|arxiv|-|[Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision](https://arxiv.org/abs/2303.05503)|[Code](https://tarun005.github.io/UDOS/)|
