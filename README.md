@@ -136,4 +136,5 @@
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
+|2022|CVPR|-|[Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)|[Code](https://sites.google.com/view/generic-grouping/)|
 |2023|arxiv|-|[Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision](https://arxiv.org/abs/2303.05503)|[Code](https://tarun005.github.io/UDOS/)|
